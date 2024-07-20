@@ -1,2 +1,2 @@
 # Fun-with-key-game
-these game help you to strong your General knowledge. using hint we want to find the correct spelling in 6 chances.
+fun with key is an educational and engaging game designed to enhance your general knowledge and spelling skills. The game challenges players to find the correct spelling of words related to various general knowledge topics using contextual hints, all within a limited number of chance
